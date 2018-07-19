@@ -1,6 +1,5 @@
 # My-Design-Inspirations[![Awesome]
-A guardian list of awesome resources for digital designers.
-usefull fonts
+**A guardian list of awesome resources for digital designers.**
 
 ### Most Popular CSS Frameworks
 #### [Bootstrap](https://getbootstrap.com)
