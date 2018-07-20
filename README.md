@@ -18,6 +18,7 @@
 - [Design Tools](#design-tools)
 - [Online Editors](#online-editors)
 - [Prototype Tools](#prototype-tools)
+- [Timeline](#timeline)
 - [Tutorials](#tutorials)
 - [Free Transform Tool](#free-transform-tool)
 - [Productivity](#productivity)
@@ -138,6 +139,10 @@
 * [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
+
+## Timeline
+* [Tiki-toki](https://www.tiki-toki.com/): Tiki-Toki is web-based timeline software for creating beautiful interactive timelines that you can share on the web.
+* [Timelinejs](https://timeline.knightlab.com/): Timeline JS is a free, easy-to-use tool for telling stories in a timeline format.
 
 ## Tutorials
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
