@@ -11,6 +11,7 @@
 - [Images](#images)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
+- [SVG Animation](#svg-animation)
 - [Online Editors](#online-editors)
 - [Prototype Tools](#prototype-tools)
 - [Tutorials](#tutorials)
@@ -94,6 +95,10 @@
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
+
+## SVG Animation
+* [Vivus](https://maxwellito.github.io/vivus/): SVG Drawing Animation.
+* [Lottie](https://www.lottiefiles.com/): After Effects animations for web.
 
 ## Online Editors
 * [Shutterstock](https://www.shutterstock.com/editor/): Find and edit images quickly and simply for your projects.
