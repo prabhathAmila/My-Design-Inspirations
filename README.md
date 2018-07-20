@@ -150,7 +150,6 @@
 ## Free Transform Tool
 * [Fabric.js - best](http://fabricjs.com): powerful and simple. Javascript HTML5 canvas library. Fabric provides interactive object model on top of canvas element.
 * [Raphael](https://alias.io/raphael/free_transform/): ree transform tool for Raphaël 2.0 elements and sets with many options.
-* [Raphael](https://alias.io/raphael/free_transform/): ree transform tool for Raphaël 2.0 elements and sets with many options.
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
