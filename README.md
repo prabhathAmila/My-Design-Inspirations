@@ -31,7 +31,9 @@
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
+* [Themeforest](https://themeforest.net): Premium themes & website templates.
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
+* [Lapa.ninja](https://www.lapa.ninja/):  The best landing page design inspiration from around the web.
 * [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
 * [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
