@@ -11,6 +11,7 @@
 - [Images](#images)
 - [Animation Tween library](#animation-tween-library)
 - [SVG Animation](#svg-animation)
+- [Image Sliders](#image-sliders)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
 - [Online Editors](#online-editors)
