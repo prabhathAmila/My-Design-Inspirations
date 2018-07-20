@@ -3,8 +3,8 @@
 
 ## Contents
 
-- [Blog & News](#blog--news)
 - [Inspiration](#inspiration)
+- [Blog & News](#blog--news)
 - [Colors](#colors)
 - [Typography](#typography)
 - [Icons](#icons)
@@ -21,18 +21,6 @@
 - [Productivity](#productivity)
 - [Slack Teams](#slack-teams)
 
-## Blog & News
-* [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
-* [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
-* [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
-* [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
-* [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
-* [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
-* [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
-* [Designer News](https://www.designernews.co/): Where the design community meets.
-* [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
-* [Morning Reader](https://morningreader.com): Breaking tech news.
-
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
 * [Themeforest](https://themeforest.net): Premium themes & website templates.
@@ -44,6 +32,18 @@
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
 * [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
+
+## Blog & News
+* [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
+* [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
+* [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
+* [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
+* [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
+* [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
+* [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
+* [Designer News](https://www.designernews.co/): Where the design community meets.
+* [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
+* [Morning Reader](https://morningreader.com): Breaking tech news.
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
