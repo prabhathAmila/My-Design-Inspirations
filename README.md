@@ -9,12 +9,14 @@
 - [Typography](#typography)
 - [Icons](#icons)
 - [Images](#images)
+- [Animation Tween library](#animation-tween-library)
+- [SVG Animation](#svg-animation)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
-- [SVG Animation](#svg-animation)
 - [Online Editors](#online-editors)
 - [Prototype Tools](#prototype-tools)
 - [Tutorials](#tutorials)
+- [Free Transform Tool](#free-transform-tool)
 - [Productivity](#productivity)
 - [Slack Teams](#slack-teams)
 
@@ -83,6 +85,13 @@
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
 
+## Animation Tween library
+* [Greensock](https://greensock.com):  Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations in all major browsers. Popular, reliable, and fast.
+
+## SVG Animation
+* [Vivus](https://maxwellito.github.io/vivus/): SVG Drawing Animation.
+* [Lottie](https://www.lottiefiles.com/): After Effects animations for web.
+
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
@@ -96,10 +105,6 @@
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
-
-## SVG Animation
-* [Vivus](https://maxwellito.github.io/vivus/): SVG Drawing Animation.
-* [Lottie](https://www.lottiefiles.com/): After Effects animations for web.
 
 ## Online Editors
 * [Shutterstock](https://www.shutterstock.com/editor/): Find and edit images quickly and simply for your projects.
@@ -121,6 +126,10 @@
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
+## Free Transform Tool
+* [Fabric.js - best](http://fabricjs.com): powerful and simple. Javascript HTML5 canvas library. Fabric provides interactive object model on top of canvas element.
+* [Raphael](https://alias.io/raphael/free_transform/): ree transform tool for Raphaël 2.0 elements and sets with many options.
+* [Raphael](https://alias.io/raphael/free_transform/): ree transform tool for Raphaël 2.0 elements and sets with many options.
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
