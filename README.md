@@ -24,11 +24,11 @@
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
+* [Behance](http://behance.net): Showcase & discover creative work.
 * [Themeforest](https://themeforest.net): Premium themes & website templates.
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
 * [Lapa.ninja](https://www.lapa.ninja/):  The best landing page design inspiration from around the web.
 * [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
-* [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
