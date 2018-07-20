@@ -10,6 +10,7 @@
 - [Icons](#icons)
 - [Vectors](#vectors)
 - [Images](#images)
+- [Images compression](#images-compression)
 - [Animation Tween library](#animation-tween-library)
 - [SVG Animation](#svg-animation)
 - [Image Sliders](#image-sliders)
@@ -90,6 +91,10 @@
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
+
+## Images compression
+* [TinyJPG](https://tinyjpg.com): Make your website faster and save bandwidth. TinyJPG is the best automatic JPEG optimizer and compresses your JPEG images by 40-60%!
+* [TinyPNG](https://tinypng.com): Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!
 
 ## Animation Tween library
 * [Greensock](https://greensock.com): Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations in all major browsers. Popular, reliable, and fast.
