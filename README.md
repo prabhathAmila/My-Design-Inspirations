@@ -104,6 +104,8 @@
 * [Swiper](http://idangero.us/swiper/): - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior.
 * [Slick](http://idangero.us/swiper/): - is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more!
 * [Owl](https://owlcarousel2.github.io/OwlCarousel2/): Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+* [PhotoSwipe](http://photoswipe.com/): Touch-friendly JavaScript image gallery for mobile and desktop, without dependencies. Responsive layout. Swipe and zoom gestures.
+* [Fancybox](https://fancyapps.com/fancybox/3/): - is a tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
 * [Cycle2](http://jquery.malsup.com/cycle2/): Cycle2 is a versatile slideshow plugin for jQuery built around ease-of-use. It supports a declarative initialization style that allows full customization ...
 
 ## Guidelines
