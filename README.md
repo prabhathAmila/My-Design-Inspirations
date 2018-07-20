@@ -8,6 +8,7 @@
 - [Colors](#colors)
 - [Typography](#typography)
 - [Icons](#icons)
+- [Vectors](#vectors)
 - [Images](#images)
 - [Animation Tween library](#animation-tween-library)
 - [SVG Animation](#svg-animation)
@@ -77,6 +78,10 @@
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 * [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+
+## Vectors
+* [Freepik](https://www.freepik.com/): Free logo templates vectors: download now the most popular logo templates vectors on Freepik. Free resources for both personal and commercial use.
+* [Vecteezy](https://www.vecteezy.com/):  Best Logo Free Vector Art Downloads from the Vecteezy community. Logo Free Vector Art licensed under creative commons, open source, and more!
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
