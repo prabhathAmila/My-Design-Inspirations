@@ -86,7 +86,9 @@
 * [Flickr](https://www.flickr.com): The home for all your photos.
 
 ## Animation Tween library
-* [Greensock](https://greensock.com):  Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations in all major browsers. Popular, reliable, and fast.
+* [Greensock](https://greensock.com): Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations in all major browsers. Popular, reliable, and fast.
+* [ScrollMagic](http://scrollmagic.io/): The javascript library for magical scroll interactions. ScrollMagic helps you to easily react to the user's current scroll position.
+* [AOS](https://michalsnik.github.io/aos/):  Animate On Scroll library using CSS3.
 
 ## SVG Animation
 * [Vivus](https://maxwellito.github.io/vivus/): SVG Drawing Animation.
