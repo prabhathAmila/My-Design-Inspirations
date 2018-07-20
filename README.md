@@ -100,8 +100,9 @@
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
 ## Tutorials
-* [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
+* [Web Designer Depot](https://www.webdesignerdepot.com/): Web Design Resources for Web Designers. We include Photoshop Tutorials, WordPress Plugins, and Web Development tools.
+* [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
