@@ -94,7 +94,9 @@
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 
 ## Online Editors
-* [Shutterstock Editor](https://www.shutterstock.com/editor/): Find and edit images quickly and simply for your projects.
+* [Shutterstock](https://www.shutterstock.com/editor/): Find and edit images quickly and simply for your projects.
+* [Bannersnack](https://www.bannersnack.com/): Make banner ads with stunning designs.
+* [Canva](https://www.canva.com/): Create beautiful designs with your team.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
