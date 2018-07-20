@@ -1,4 +1,4 @@
-# My Design Inspirations[![Awesome]
+# My Awesome Design Inspirations!
 **A guardian list of awesome resources for digital designers.**
 
 ## Contents
