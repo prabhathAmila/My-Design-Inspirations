@@ -102,6 +102,7 @@
 ## Tutorials
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Web Designer Depot](https://www.webdesignerdepot.com/): Web Design Resources for Web Designers.
+* [Smashing Magazine](https://www.smashingmagazine.com/):  is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
