@@ -19,6 +19,7 @@
 - [Online Editors](#online-editors)
 - [Prototype Tools](#prototype-tools)
 - [Timeline](#timeline)
+- [Js-to-PDF](#js-to-pdf)
 - [Tutorials](#tutorials)
 - [Free Transform Tool](#free-transform-tool)
 - [Productivity](#productivity)
@@ -143,6 +144,11 @@
 ## Timeline
 * [Tiki-toki](https://www.tiki-toki.com/): Tiki-Toki is web-based timeline software for creating beautiful interactive timelines that you can share on the web.
 * [Timelinejs](https://timeline.knightlab.com/): Timeline JS is a free, easy-to-use tool for telling stories in a timeline format.
+
+## Js-to-PDF
+* [jsPDF](https://rawgit.com/MrRio/jsPDF/master/): THTML5 JavaScript PDF generation library.
+* [parall-jsPDF](https://parall.ax/products/jspdf): The leading HTML5 client solution for generating PDFs. Perfect for event tickets, reports, certificates, you name it!
+* [pdf.js](https://mozilla.github.io/pdf.js/): A general-purpose, web standards-based platform for parsing and rendering PDFs.
 
 ## Tutorials
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
