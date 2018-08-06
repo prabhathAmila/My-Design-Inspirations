@@ -14,6 +14,7 @@
 - [Animation Tween library](#animation-tween-library)
 - [SVG Animation](#svg-animation)
 - [Image Sliders](#image-sliders)
+- [Colorpickers](#colorpickers)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
 - [Online Editors](#online-editors)
@@ -114,6 +115,9 @@
 * [PhotoSwipe](http://photoswipe.com/): Touch-friendly JavaScript image gallery for mobile and desktop, without dependencies. Responsive layout. Swipe and zoom gestures.
 * [Fancybox](https://fancyapps.com/fancybox/3/): - is a tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
 * [Cycle2](http://jquery.malsup.com/cycle2/): Cycle2 is a versatile slideshow plugin for jQuery built around ease-of-use. It supports a declarative initialization style that allows full customization ...
+
+## Colorpickers
+* [spectrum](https://bgrins.github.io/spectrum/): - option for the most basic use case.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
