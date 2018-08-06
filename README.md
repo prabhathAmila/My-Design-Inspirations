@@ -118,7 +118,7 @@
 * [Reveal.js](https://github.com/hakimel/reveal.js): A framework for easily creating beautiful presentations using HTML.
 
 ## Colorpickers
-* [spectrum](https://bgrins.github.io/spectrum/): - option for the most basic use case.
+* [Spectrum](https://bgrins.github.io/spectrum/): - option for the most basic use case.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
