@@ -116,6 +116,7 @@
 * [Fancybox](https://fancyapps.com/fancybox/3/): - is a tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
 * [Cycle2](http://jquery.malsup.com/cycle2/): Cycle2 is a versatile slideshow plugin for jQuery built around ease-of-use. It supports a declarative initialization style that allows full customization ...
 * [Reveal.js](https://github.com/hakimel/reveal.js): A framework for easily creating beautiful presentations using HTML.
+* [Impress.js](https://github.com/impress/impress.js/): Impress your audience with stunning visualization of your talk?
 
 ## Colorpickers
 * [Spectrum](https://bgrins.github.io/spectrum/): - option for the most basic use case.
