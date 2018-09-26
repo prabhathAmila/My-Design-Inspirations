@@ -139,7 +139,9 @@
 * [Shutterstock](https://www.shutterstock.com/editor/): Find and edit images quickly and simply for your projects.
 * [Bannersnack](https://www.bannersnack.com/): Make banner ads with stunning designs.
 * [Canva](https://www.canva.com/): Create beautiful designs with your team.
+* [Design bold](https://www.designbold.com/): Free Graphic Design Software. Simple Online Photo Editor.
 * [Crello](https://crello.com/): Free Graphic Design Software. Simple Online Photo Editor.
+* [Design wizard](https://app.designwizard.com/#/dashboard/home): Free Graphic Design Software. Simple Online Photo Editor.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
