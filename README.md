@@ -142,6 +142,7 @@
 * [Design bold](https://www.designbold.com/): Free Graphic Design Software. Simple Online Photo Editor.
 * [Crello](https://crello.com/): Free Graphic Design Software. Simple Online Photo Editor.
 * [Design wizard](https://app.designwizard.com/#/dashboard/home): Free Graphic Design Software. Simple Online Photo Editor.
+* [Snappa](https://snappa.com/): Free Graphic Design Software. Simple Online Photo Editor.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
