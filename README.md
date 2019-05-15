@@ -15,6 +15,7 @@
 - [SVG Animation](#svg-animation)
 - [Image Sliders](#image-sliders)
 - [Colorpickers](#colorpickers)
+- [Simple tooltips made of pure CSS](#tooltips)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
 - [Online Editors](#online-editors)
@@ -120,6 +121,9 @@
 
 ## Colorpickers
 * [Spectrum](https://bgrins.github.io/spectrum/): - option for the most basic use case.
+
+## tooltips
+* [Tooltips](https://kazzkiq.github.io/balloon.css/): - Simple tooltips made of pure CSS
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
