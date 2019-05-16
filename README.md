@@ -213,9 +213,7 @@
 * [Italianno](https://fonts.google.com/specimen/Italianno)
 
 ## NPM
-* [jsdocs](https://devhints.io/jsdoc)
-* __jsdoc (https://www.npmjs.com/package/jsdoc)__
-  * npm i jsdoc
+* [jsdocs](https://www.npmjs.com/package/jsdoc)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
