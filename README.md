@@ -204,6 +204,12 @@
 * [Raleway](https://fonts.google.com/specimen/Raleway)
 * [Oswald](https://fonts.google.com/specimen/Oswald)
 * [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+* [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface)
+* [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
+* [Lobster](https://fonts.google.com/specimen/Lobster)
+* [Muli](https://fonts.google.com/specimen/Muli)
+* [Poiret One](https://fonts.google.com/specimen/Poiret+One)
+* [Italianno](https://fonts.google.com/specimen/Italianno)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
