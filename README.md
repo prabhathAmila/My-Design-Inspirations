@@ -198,6 +198,12 @@
 
 ## Fonts
 * [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+* [Roboto](https://fonts.google.com/specimen/Roboto)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+* [Raleway](https://fonts.google.com/specimen/Raleway)
+* [Oswald](https://fonts.google.com/specimen/Oswald)
+* [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
