@@ -26,6 +26,7 @@
 - [Free Transform Tool](#free-transform-tool)
 - [Productivity](#productivity)
 - [Slack Teams](#slack-teams)
+- [Fonts](#fonts)
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
@@ -194,6 +195,9 @@
 * [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 * [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 * [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
+
+## Fonts
+* [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
