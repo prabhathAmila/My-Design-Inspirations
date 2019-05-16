@@ -27,6 +27,7 @@
 - [Productivity](#productivity)
 - [Slack Teams](#slack-teams)
 - [Fonts](#fonts)
+- [NPM](#NPM)
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
@@ -210,6 +211,11 @@
 * [Muli](https://fonts.google.com/specimen/Muli)
 * [Poiret One](https://fonts.google.com/specimen/Poiret+One)
 * [Italianno](https://fonts.google.com/specimen/Italianno)
+
+## NPM
+* [jsdocs](https://devhints.io/jsdoc)
+* __jsdoc (https://www.npmjs.com/package/jsdoc)__
+  * npm i jsdoc
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
