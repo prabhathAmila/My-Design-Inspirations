@@ -76,7 +76,7 @@
 * [Typ.io](http://typ.io/): Typography inspiration from real websites.
 * [V-fonts](https://v-fonts.com/): [Fonts can Animate] A simple resource for finding and trying variable fonts.
 
-## - CSS framework
+## CSS framework
 * [Tailwindcss](https://tailwindcss.com): A utility-first CSS framework for rapidly building custom designs.
 
 ## Icons
