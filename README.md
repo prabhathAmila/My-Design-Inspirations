@@ -7,6 +7,7 @@
 - [Blog & News](#blog--news)
 - [Colors](#colors)
 - [Typography](#typography)
+- [CSS framework](#css-framework)
 - [Icons](#icons)
 - [Vectors](#vectors)
 - [Images](#images)
@@ -74,6 +75,9 @@
 * [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
 * [Typ.io](http://typ.io/): Typography inspiration from real websites.
 * [V-fonts](https://v-fonts.com/): [Fonts can Animate] A simple resource for finding and trying variable fonts.
+
+## - CSS framework
+* [Tailwindcss](https://tailwindcss.com): A utility-first CSS framework for rapidly building custom designs.
 
 ## Icons
 * [Flat Icon](http://flaticon.com): Thousands of free flat icons.
